@@ -9,7 +9,6 @@ Repositório Projeto AVD - Francisca Guedes e Mariana Martins
   - [Extração de Dados](#extração-de-dados)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuindo](#contribuindo)
 
 ## Tema
 Museu da Pessoa ft. Baú da Família
@@ -36,3 +35,8 @@ cd AVD_MF
 
 # Instale as dependências
 npm install
+```
+## Uso
+```bash
+#Comando para rodar o projeto
+npm start
