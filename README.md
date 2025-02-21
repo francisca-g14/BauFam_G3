@@ -1,4 +1,4 @@
-# AVD_MF
+# BauFam_G3
 Repositório Projeto AVD - Francisca Guedes e Mariana Martins
 
 ## Table of Contents
