@@ -31,7 +31,7 @@ Instruções sobre como instalar e configurar o ambiente necessário para rodar 
 git clone https://github.com/francisca-g14/AVD_MF.git
 
 # Entre no diretório do projeto
-cd AVD_MF
+cd BauFam_G3
 
 # Instale as dependências
 npm install
