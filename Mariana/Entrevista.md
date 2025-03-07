@@ -1,8 +1,4 @@
 ## Mini Entrevista
----
-Date: 06/03/2025
-Title: Mini Entrevista
----
 
 * Mariana: Entrevistadora
 * Sara: Entrevistada
