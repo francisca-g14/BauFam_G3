@@ -1,8 +1,5 @@
 ## Mini Entrevista
 
-* Mariana: Entrevistadora
-* Sara: Entrevistada
-
 **Mariana:** Olá! Hoje estou aqui com a minha irmã, a sara, e vamos falar um bocado sobre a infância dela.
 
 **Sara**: Olá!
