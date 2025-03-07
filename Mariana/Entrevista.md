@@ -8,9 +8,8 @@
 
 **Sara**: Este livro, é um livro que um tio meu me ofereceu quando tinha 4 anos, e fala sobre uma historia, onde as persoangens sou eu e mais três primos. É uma histótia de fantasia, onde vamos para um mundo cheio de fadas. Gosto muito deste livro, porque foi a primeira vez que fui para outro mundo, e para além disso eu faço fazia parte da história e era umas das persoangens principais. Foi um livro especialmente feito para mim e isso marcou-me na vida literário, como na vida em si.
 
-<img src="Livro_da_Sra.jpg" " width="400" height="300">
-<img src="sara_no_pais_das_maravilhasjpg.jpg" alt="Livro da Sara" width="400" height="300">
-![livro da sara](Livro_da_Sra.jpg "Capa do Livro feito para a Sara")
+<img src="Livro_da_Sra.jpg" alt="Capa do livro" width="400" height="300">
+<img src="sara_no_pais_das_maravilhasjpg.jpg" alt="Primeira página do Livro da Sara" width="400" height="300">
 
 **Mariana**: Qual foi a prenda mais memóravel que os teus pais te deram quando eras criança?
 
