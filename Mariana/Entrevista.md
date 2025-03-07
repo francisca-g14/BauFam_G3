@@ -9,7 +9,7 @@
 **Mariana**: Temos aqui um objeto que a Sara trouxe, um livro que tem um significado especial para ela. Podes falar um bocado sobre ele?
 
 **Sara**: Este livro, é um livro que um tio meu me ofereceu quando tinha 4 anos, e fala sobre uma historia, onde as persoangens sou eu e mais três primos. É uma histótia de fantasia, onde vamos para um mundo cheio de fadas. Gosto muito deste livro, porque foi a primeira vez que fui para outro mundo, e para além disso eu faço fazia parte da história e era umas das persoangens principais. Foi um livro especialmente feito para mim e isso marcou-me na vida literário, como na vida em si.
-
+<img src="Livro_da_Sra.jpg" alt="Description" width="400" height="300">
 ![Livro da Sara](sara_no_pais_das_maravilhasjpg.jpg)
 ![Livro da Sara 2](Livro_da_Sra.jpg)
 
