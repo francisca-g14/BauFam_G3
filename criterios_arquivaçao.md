@@ -6,3 +6,4 @@
 ### Estrutura
 * Cada entrevista terá a sua pasta onde irá conter todas as coisas retiradas da entrevista(foto, audio, ...), com a seguinte estrutura:
   * Nome da pessoa entrevistada + designação do ficheiro
+* Cada membro do grupo também tem uma pasta individual
