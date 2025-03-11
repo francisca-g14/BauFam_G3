@@ -21,6 +21,9 @@
 
 ---
 
+![Exemplo de Entrevista](sara_no_pais_das_maravilhasjpg.jpg "Entrevista com Mariana")
+
+A imagem acima mostra um momento chave da entrevista.
 <img src="sara_no_pais_das_maravilhasjpg.jpg" alt="Primeira página do Livro da Sara" width="400" height="300">
 
 **Mariana**: Qual foi a prenda mais memóravel que os teus pais te deram quando eras criança?
