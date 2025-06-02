@@ -8,7 +8,7 @@
 
 **Mariana**: Então, onde e quando é que você nasceu?
 
-**José Morgado**: Eu nasci no Hospital São Marcos de Braga, (0:18) na freguesia São João dos Soutos, em 11 de março de 1953.
+**José Morgado**: Eu nasci no Hospital São Marcos de Braga, na freguesia São João dos Soutos, em 11 de março de 1953.
 
 **Mariana**: Como é que era a sua família e a sua comunidade quando era criança? 
 
@@ -202,7 +202,7 @@ Foi uma geração que passou por tudo, desde os tempos difíceis de não se pode
 
 **JM**: Há momentos bons e momentos menos bons. Toda a gente tem momentos muitíssimo bons na vida e momentos menos bons na vida. Toda a gente. E é escusado vir-me com histórias. Pelo menos com as pessoas que eu vivi — muitas raças, jovens, velhos — e todas. Reviver os momentos. Eu acho que foi tudo importante. Acho que foi tudo importante e aqueles momentos menos importantes serviram-me de lição. Foi para aprender. É isso. 
 
-**Mariana**: O que gostaria que as pessoas lembrassem (21:04) de si no futuro? 
+**Mariana**: O que gostaria que as pessoas lembrassem de si no futuro? 
 
 **JM**: Eu penso que... Eu não queria era morrer. Não podia pensar isso.  Mas sei que é impossível e ainda bem. Mas essencialmente que era uma pessoa normal. Normal nos parâmetros que eu entendo que é normal. Não me interessa dizer é uma pessoa — não sei o quê, não sei que mais.  Há sempre alguém que diz que é, quase todos, que é uma pessoa e é outro. Eu tenho duas ou três pessoas na minha vida que foram embora. Mas não me interessa que pensem...eu sei que não fui mau. Não é? Se me dizem que fui mau e até pôr na chuleta pode ser menos bom. Mas o que me interessa a mim não faço questão sobre isso. Não faço questão. Não faço questão porque... não sei. Não faço questão.
 
