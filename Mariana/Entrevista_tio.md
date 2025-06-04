@@ -10,9 +10,17 @@
 
 **José Morgado**: Eu nasci no Hospital São Marcos de Braga, na freguesia São João dos Soutos, em 11 de março de 1953.
 
+<img src="mae_e_filho.jpg" alt="José Morgado em criança com a mãe" width="400" height="300">
+
+***Legenda:** A minha avó, a mãe do meu tio e o meu tio quando era ainda era uma criança. Única foto de quando o meu tio era pequeno*
+
 **Mariana**: Como é que era a sua família e a sua comunidade quando era criança? 
 
 **José Morgado**: A família era uma família modesta, simples, não muito abastada, mas nunca houve fome propriamente dita. E a comunidade era a comunidade da aldeia, a comunidade que basicamente era a escola, era a igreja e o convívio lá com as pessoas do lugar, basicamente era isso.
+
+<img src="osirmaos.jpg" alt="Irmãos do meu tio José" width="400" height="300">
+
+***Legenda:** Irmãos de José Morgado, os meus tios. Ele não está presente na foto.*
 
 **Mariana**: Que memórias tem da sua escola? Tem algum professor preferido, ou disciplina? 
 
@@ -41,9 +49,17 @@ Como toda a gente o que gostava de estar com os amigos, gostava de me divertir, 
 **JM**: Eu tive vários. Primeiro, um momento importante foi viver com a minha família, com os meus pais e com os meus irmãos. Depois foi constituir a minha própria família e o nascimento do meu filho. Para além disso, tive momentos muito importantes que foi o ir para o seminário, foi muito importante, porque sem isso de certo que também não teria estudado. E também considero que foi muito importante ir para a tropa, porque aí foi que a gente aprendeu as regras. Já sabíamos algumas, mas podíamos transgredi-las e ninguém dizia nada.
 E ali tinha que ser, e era assim. E isso também é importante para a nossa vida, não é? Não é fazer o que se quer. 
 
+<img src="seminario.jpg" alt="O meu tio na seminário" width="400" height="300">
+
+***Legenda**: O meu tio quando ainda andava no seminário*
+
 **Mariana**: Eu não sabia que você tinha ido para a tropa. 
 
 **JM**: Fui, fui oficial na tropa.
+
+<img src="natropa_oficial.jpg" alt="O meu tio oficial" width="400" height="300">
+
+***Legenda**: Quando o meu tio foi oficial na tropa.*
 
 **Mariana**: Ah, eu não sabia.
 
@@ -60,6 +76,10 @@ E ali tinha que ser, e era assim. E isso também é importante para a nossa vida
 **Mariana**: A sério?
 
 **JM**: E fardei-me no dia 24 de abril.
+
+<img src="natropa.jpg" alt="O meu tio com a farda" width="400" height="300">
+
+***Legenda:** O meu tio com a farda da tropa*
 
 **Mariana**: Ai, a minha mãe nunca me disse isso.
 
@@ -207,5 +227,20 @@ Foi uma geração que passou por tudo, desde os tempos difíceis de não se pode
 **JM**: Eu penso que... Eu não queria era morrer. Não podia pensar isso.  Mas sei que é impossível e ainda bem. Mas essencialmente que era uma pessoa normal. Normal nos parâmetros que eu entendo que é normal. Não me interessa dizer é uma pessoa — não sei o quê, não sei que mais.  Há sempre alguém que diz que é, quase todos, que é uma pessoa e é outro. Eu tenho duas ou três pessoas na minha vida que foram embora. Mas não me interessa que pensem...eu sei que não fui mau. Não é? Se me dizem que fui mau e até pôr na chuleta pode ser menos bom. Mas o que me interessa a mim não faço questão sobre isso. Não faço questão. Não faço questão porque... não sei. Não faço questão.
 
 **Mariana**: Pronto e foi isso. Obrigada pela sua participação.
+
+#### Imagens Adicionais
+
+<img src="alferes.jpg" alt="escalão de alferes" width="400" height="300">
+
+***Legenda**: alferes*
+
+<img src="Cadete.jpg" alt="cadete" width="400" height="300">
+
+***Legenda**: Identificação de cadete na escola militar*
+
+<img src="tiozéjovem.jpg" alt="José Morgado jovem" width="400" height="300">
+
+***Lgenda:** O meu tio quando era jovem*
+
 
  
