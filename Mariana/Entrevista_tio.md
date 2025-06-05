@@ -238,7 +238,7 @@ Foi uma geração que passou por tudo, desde os tempos difíceis de não se pode
 
 ***Legenda**: Identificação de cadete na escola militar*
 
-<<img src="tropa.jpg" alt="com a farda" width="400" height="300">
+<<img src="Tropa.jpg" alt="com a farda" width="400" height="300">
 
 <img src="tiozéjovem.jpg" alt="José Morgado jovem" width="400" height="300">
 
